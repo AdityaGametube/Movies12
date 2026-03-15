@@ -1,8 +1,0 @@
-{
-  "name": "Aditya Movies Repo",
-  "description": "CloudStream extensions",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/AdityaGametube/MoviesRepo/main/plugins.json"
-  ]
-}
